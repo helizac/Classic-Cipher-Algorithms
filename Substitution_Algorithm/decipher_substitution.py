@@ -36,11 +36,8 @@ def decipher_substitution(key: str, text: str, lan="en"):
     if len(key) > len(language_options[lan]):
         key = key[:len(language_options)[lan]]
 
-    print(key)
-
     cipher_alphabet = list(zip(language_options[lan], [i for i in key] + [j for j in language_options[lan] if j not in [i for i in key]]))
 
-    print(cipher_alphabet)
     decrypted_text = ""
 
     for i in text:

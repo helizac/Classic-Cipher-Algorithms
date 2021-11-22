@@ -17,19 +17,21 @@ Then, instead of the letters in the text to be encrypted, the corresponding lett
 
 </div>
 
-> e.g. for "Text to be encrypted" 
-
 ```
-The encryption code will first clarify the text and reduce it to "texttobeencrypted".
-Then it will replace all letters in the text with the corresponding letters of the alphabet in the cipher alphabet.
 
-Such As ->
-            t --> s
-            e --> o
-            x --> w
-            t --> s
-            ...
-            d --> l
+e.g. for "Text to be encrypted" 
 
-And turn into "taxttneaamlryptao"
+  The encryption code will first clarify the text and reduce it to "texttobeencrypted".
+  Then it will replace all letters in the text with the corresponding letters of the alphabet in the cipher alphabet.
+
+  Such As ->
+              t --> s
+              e --> o
+              x --> w
+              t --> s
+              ...
+              d --> l
+
+  And turn into "taxttneaamlryptao"
+
 ```

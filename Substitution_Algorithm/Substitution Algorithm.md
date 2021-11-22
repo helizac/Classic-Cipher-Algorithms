@@ -8,7 +8,7 @@ Then, the letters other than the letters of the word are written in order and a 
 
 Then, instead of the letters in the text to be encrypted, the corresponding letters in the encryption alphabet are written and the encrypted text is created.
 
-|     Alphabet    |                       Letters                       |
-| --------------- | --------------------------------------------------- |
+| Alphabet | Letters |
+|:---------------:|:---------------------------------------------------:|
 | Normal Alphabet | a b c d e f g h i j k l m n o p q r s t u v w x y z |
 | Cipher Alphabet | h e l l o a b c d f g i j k m n p q r s t u v w x y |

@@ -25,12 +25,12 @@ e.g. for "Text to be encrypted"
   Then it will replace all letters in the text with the corresponding letters of the alphabet in the cipher alphabet.
 
   Such As ->
-              t --> s
-              e --> o
-              x --> w
-              t --> s
+              t --> t
+              e --> a
+              x --> x
+              t --> t
               ...
-              d --> l
+              d --> o
 
   And it will give us the cipher text "taxttneaamlryptao"
 

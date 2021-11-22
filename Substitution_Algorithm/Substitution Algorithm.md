@@ -7,7 +7,9 @@ In this method, a new encryption alphabet is created and the letters of the pass
 Then, the letters other than the letters of the word are written in order and a new encryption alphabet is formed.
 
 Then, instead of the letters in the text to be encrypted, the corresponding letters in the encryption alphabet are written and the encrypted text is created.
+
 </br>
+
 <div align="center">
   
 | Alphabet | Letters |
@@ -16,7 +18,9 @@ Then, instead of the letters in the text to be encrypted, the corresponding lett
 | Cipher Alphabet |` h  e  l  o  a  b  c  d  f  g  i  j  k  m  n  p  q  r  s  t  u  v  w  x  y  z `|
 
 </div>
+
 </br>
+
 ```
 
 e.g. for "Text to be encrypted" 

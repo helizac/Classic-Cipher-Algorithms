@@ -1,4 +1,4 @@
-#Substitution Algorithm
+# Substitution Algorithm
 
 In substitution algorithm, letters or groups of letters are changed systematically throughout the message.
 

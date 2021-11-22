@@ -10,5 +10,5 @@ Then, instead of the letters in the text to be encrypted, the corresponding lett
 
 | Alphabet | Letters |
 |:---------------:|:----------------------------------------------------------------------------:|
-| Normal Alphabet | a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z |
-| Cipher Alphabet | h  e  l  l  o  a  b  c  d  f  g  i  j  k  m  n  p  q  r  s  t  u  v  w  x  y |
+| Normal Alphabet |` a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z `|
+| Cipher Alphabet |` h  e  l  l  o  a  b  c  d  f  g  i  j  k  m  n  p  q  r  s  t  u  v  w  x  y `|

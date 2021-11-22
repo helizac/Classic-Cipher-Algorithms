@@ -32,6 +32,6 @@ e.g. for "Text to be encrypted"
               ...
               d --> l
 
-  And turn into "taxttneaamlryptao"
+  And it will give us the cipher text "taxttneaamlryptao"
 
 ```

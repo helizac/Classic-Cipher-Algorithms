@@ -1,4 +1,5 @@
 # Classic-Cipher-Algorithms
+
 Classic cipher algorithms are encryption methods that have been used in history, but unlike modern crypto algorithms, they can be easily calculated. Examples of classic cipher algorithms in history can be given as algorithms such as Caesar, Sacco, Vigenere...
 
 We can divide the classic cipher methods into two in terms of the methods it uses. These are transposition and substitution methods.
